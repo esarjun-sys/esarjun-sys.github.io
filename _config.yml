@@ -1,0 +1,7 @@
+title: Simplilearn Learner Stories
+description: Real learner experiences with Simplilearn programs in AI, cybersecurity, product management, and more.
+author: Simplilearn Brand Team
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
